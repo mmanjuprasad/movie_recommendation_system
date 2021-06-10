@@ -7,3 +7,7 @@ The data is preprocessed using the R studio
 
 
 Using the python and connecting the Neo4j the recommender system works.
+
+
+Processed.zip consists of the processed datasets in csv format
+
